@@ -4,11 +4,9 @@
 ## 🚀 About Me
 
 - 🎓 **Computer Engineering** student at **Thapar University** (3rd Year)
-- 💡 Passionate about **Machine Learning, Web Development, and IoT**
-- 🔬 Working on a **Glove-based Gesture Recognition System**
-- 🎯 Active participant in **Hackathons** & Core Member of **MLSC**
-- 🏆 Awarded **Scholarship** for academic excellence
-- 🐶 Exploring ideas for a **Dog Health & Care Business**
+- 💡 Passionate about **Machine Learning, Web Development, and Artifical Intelligence**
+- 📫 How to reach me: nehagarg2k4@gmail.com
+
 
 ---
 

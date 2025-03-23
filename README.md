@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi there, I'm Neha! 👋
 
 ## 🚀 About Me
@@ -44,13 +44,9 @@
 
 ## 🌍 Where to Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/yourprofile)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neha2k4)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/neha2k4)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/neha2k4)
 
----
-
-### 🎯 Fun Fact
-🐶 I love **dogs** and am working on a **pet-care startup idea!**
 
 ### ✨ Keep Learning & Keep Innovating 🚀

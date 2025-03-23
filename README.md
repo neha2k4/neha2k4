@@ -9,6 +9,8 @@
 
 
 ---
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,sklearn,mysql,postgres,html,css,bootstrap,js,jquery,react,expressjs,nodejs,postman,npm,mongodb,pug,git,github,netlify,vscode,matlab,ps,autocad,aws,linux,androidstudio,arduino,stackoverflow&perline=13)](#)
 
 ## 🛠️ Languages and Tools
 

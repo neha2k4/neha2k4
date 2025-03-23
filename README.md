@@ -34,14 +34,6 @@
 
 ---
 
-## 📌 Pinned Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=YourProject1&theme=dark)](https://github.com/YourGitHubUsername/YourProject1)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=YourProject2&theme=dark)](https://github.com/YourGitHubUsername/YourProject2)
-
----
-
 ## 🌍 Where to Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neha2k4)

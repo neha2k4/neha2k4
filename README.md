@@ -7,6 +7,9 @@
 - 💡 Passionate about **Machine Learning, Web Development, and Artifical Intelligence**
 - 📫 How to reach me: nehagarg2k4@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neha2k4&label=Profile%20views&color=0e75b6&style=flat" alt="neha2k4" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neha2k4" alt="neha2k4" /></a> </p>
 
 ---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  

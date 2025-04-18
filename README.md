@@ -9,10 +9,17 @@ Currently diving deep into the MERN Stack & crafting some slick, fully-functiona
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ## 🚀 About Me
+- 💡 Passionate about Machine Learning, Web Development, and Artifical Intelligence
 
-- 🎓 **Computer Engineering** student at **Thapar University** (3rd Year)
-- 💡 Passionate about **Machine Learning, Web Development, and Artifical Intelligence**
-- 📫 How to reach me: nehagarg2k4@gmail.com
+- 🔭 I am honing my dev and problem solving skills.
+
+- 💬 Ask me about MERN stack and Data Structures
+
+- 📫 How to reach me **nehagarg2k4@gmail.com**
+
+- 👨‍💻 All of my projects are available at [Github](https://github.com/neha2k4)
+
+- ⚡ Fun fact I am good at google search and finding solutions.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha2k4&label=Profile%20views&color=0e75b6&style=flat" alt="neha2k4" /> </p>
 

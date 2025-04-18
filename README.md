@@ -1,5 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Neha</h1>
+🚀 Passionate About Code, Hungry for Growth! 💻✨
+A Computer Engineering undergrad from TIET with a fire to conquer the coding world.
+Building my path to become a name worth remembering.
+Currently diving deep into the MERN Stack & crafting some slick, fully-functional web apps to showcase my skills and vision. 🌐🔥
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Problem+solver.+Tech+enthusiast." alt="Typing SVG" /></a>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
